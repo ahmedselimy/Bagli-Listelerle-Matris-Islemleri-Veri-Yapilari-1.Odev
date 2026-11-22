@@ -1,0 +1,10 @@
+Derleme ve calistirma icin proje klasorunde "mingw32-make" komutunu calistirabilirsiniz.
+
+Kullanim notlari:
+- Dugum gezme isleminde birden fazla w veya s yazilirsa yazilan harf sayisi kadar dugum atlanmaktadir.
+- Ana menude w/s ile gezilir, q ve e ile yeni kare matris eklenir, f ile secili matris islemlerine girilir, x ile kaydedilip cikilir.
+- f menusunde 1 satir siler, 2 sutun siler, 3 elementer islemler menusunu acar, x ana menuye doner.
+- Elementer islemler menusunde 1 satirlari yer degistirir, 2 sutunlari yer degistirir, 3 satir-sutun yer degistirir, x bir onceki menuye doner.
+- Bir matrisin butun satirlari ya da sutunlari silindikten sonra x tusuna basilarak ana menuye donuldugunde o matrisin dugumu listeden silinir.
+- Yeni matris eklerken 00-99 araliginda tekrarsiz sayi uretildigi icin boyut en fazla 10x10 olabilir.
+- Program Veri.txt dosyasini hem ana klasorde hem de bin klasorunde arayip buldugu dosyayi kullanir.
